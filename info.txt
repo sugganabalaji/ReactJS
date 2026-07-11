@@ -6,4 +6,8 @@ Day-3 https://youtu.be/-oKpDYd9dZ0
 Day-4 https://youtu.be/hNv8g8-hR9k
 Day-5 https://youtu.be/tXuMvSi5dYE
 
+https://legacy.reactjs.org/
+
+https://react.dev/
+
 https://tc39.es/ecma262/
